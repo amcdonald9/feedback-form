@@ -20,3 +20,7 @@ Open `index.html` in your browser and fill out the form.
 ## What I Learned
 
 Building forms with validation and improving user experience.
+
+
+Link to view: https://amcdonald9.github.io/feedback-form/
+
